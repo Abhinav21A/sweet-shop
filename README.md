@@ -6,7 +6,7 @@ It includes:
 - Frontend: React + Vite (minimal scaffold)
 - Tests: Jest (backend), Vitest (frontend, optional)
 
-Assignment reference: TDD Kata: Sweet Shop Management System. See the original brief for all requirements. (Included in project deliverables.)
+
 
 ## Structure
 ```
